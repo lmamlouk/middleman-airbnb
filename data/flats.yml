@@ -1,0 +1,41 @@
+# data/flats.yml
+ssaunier:
+  name: "Sebastien's home"
+  description: "Charming room in Montmartre"
+  city_name: "Paris, France"
+  city_slug: "paris"
+  wifi: false
+  rating: 4
+  capacity: 4
+papillard:
+  name: "Boris' home"
+  description: Small flat in Tokyo
+  city_name: "Tokyo, Japan"
+  city_slug: "tokyo"
+  wifi: true
+  rating: 3
+  capacity: 4
+monsieurpaillard:
+  name: Romain's home
+  description: Nice flat in Piccadilly
+  city_name: "London, UK"
+  city_slug: "london"
+  wifi: true
+  rating: 5
+  capacity: 12
+christopher:
+  name: La maison de Christopher
+  description: Belle maison à Lille
+  city_name: "Lille, France"
+  city_slug: "lille"
+  wifi: true
+  rating: 2
+  capacity: 10
+lamia:
+  name: Le studio de Lamia
+  description: Petit studio à Bordeaux
+  city_name: "Bordeaux, France"
+  city_slug: "bordeaux"
+  wifi: true
+  rating: 5
+  capacity: 2
